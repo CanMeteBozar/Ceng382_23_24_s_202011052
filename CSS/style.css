@@ -1,0 +1,23 @@
+.p{
+    font-family: fantasy;
+    font-weight: bold;
+    font-size: x-large;
+    color: rgb(97, 29, 207);
+    border: ridge;
+    width: 25%;
+    text-align: center;
+    border-color: burlywood;
+    background-color: rgb(161, 170, 170);
+    margin: auto;
+}
+
+
+.Login{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-align: center;
+    color: black;
+}
+
+
+                
