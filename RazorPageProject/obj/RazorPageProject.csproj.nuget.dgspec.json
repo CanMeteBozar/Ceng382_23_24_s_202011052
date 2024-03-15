@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\c2011052.H302-PC15\\Desktop\\kanflkasnf\\Ceng382_23_24_s_202011052\\RazorPageProject\\RazorPageProject.csproj": {}
+    "C:\\Users\\canme\\Desktop\\CENG382\\RazorPageProject\\RazorPageProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\c2011052.H302-PC15\\Desktop\\kanflkasnf\\Ceng382_23_24_s_202011052\\RazorPageProject\\RazorPageProject.csproj": {
+    "C:\\Users\\canme\\Desktop\\CENG382\\RazorPageProject\\RazorPageProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\c2011052.H302-PC15\\Desktop\\kanflkasnf\\Ceng382_23_24_s_202011052\\RazorPageProject\\RazorPageProject.csproj",
+        "projectUniqueName": "C:\\Users\\canme\\Desktop\\CENG382\\RazorPageProject\\RazorPageProject.csproj",
         "projectName": "RazorPageProject",
-        "projectPath": "C:\\Users\\c2011052.H302-PC15\\Desktop\\kanflkasnf\\Ceng382_23_24_s_202011052\\RazorPageProject\\RazorPageProject.csproj",
-        "packagesPath": "C:\\Users\\c2011052.H302-PC15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\c2011052.H302-PC15\\Desktop\\kanflkasnf\\Ceng382_23_24_s_202011052\\RazorPageProject\\obj\\",
+        "projectPath": "C:\\Users\\canme\\Desktop\\CENG382\\RazorPageProject\\RazorPageProject.csproj",
+        "packagesPath": "C:\\Users\\canme\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\canme\\Desktop\\CENG382\\RazorPageProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\c2011052.H302-PC15\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\canme\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
