@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\canme\\Desktop\\CENG382\\RazorPageProject\\RazorPageProject.csproj",
+      "projectUniqueName": "C:\\Users\\canme\\Desktop\\CENG382\\Ceng382_23_24_s_202011052\\RazorPageProject\\RazorPageProject.csproj",
       "projectName": "RazorPageProject",
-      "projectPath": "C:\\Users\\canme\\Desktop\\CENG382\\RazorPageProject\\RazorPageProject.csproj",
+      "projectPath": "C:\\Users\\canme\\Desktop\\CENG382\\Ceng382_23_24_s_202011052\\RazorPageProject\\RazorPageProject.csproj",
       "packagesPath": "C:\\Users\\canme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\canme\\Desktop\\CENG382\\RazorPageProject\\obj\\",
+      "outputPath": "C:\\Users\\canme\\Desktop\\CENG382\\Ceng382_23_24_s_202011052\\RazorPageProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\canme\\AppData\\Roaming\\NuGet\\NuGet.Config",
