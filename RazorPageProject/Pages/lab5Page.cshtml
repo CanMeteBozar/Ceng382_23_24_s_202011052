@@ -7,12 +7,23 @@
 
   <div class="px-4 py-5 my-5 text-center">
     <img class="d-block mx-auto mb-4" src="/docs/5.3/assets/brand/bootstrap-logo.svg" alt="" width="72" height="57">
-    <h1 class="display-5 fw-bold text-body-emphasis">Centered hero</h1>
+    <h1 id="HideOrShow1" class="display-5 fw-bold text-body-emphasis">Centered hero</h1>
     <div class="col-lg-6 mx-auto">
-      <p class="lead mb-4">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
+      <p id="HideOrShow2" class="lead mb-4">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
       <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-        <button type="button" class="btn btn-primary btn-lg px-4 gap-3">Primary button</button>
-        <button type="button" class="btn btn-outline-secondary btn-lg px-4">Secondary</button>
+        <button onclick="DisplayFunction()" type="button" class="btn btn-primary btn-lg px-4 gap-3">Hide or Show</button>
+        <button onclick="ShowHiddenForm()" type="button" class="btn btn-outline-secondary btn-lg px-4">Show Hidden Form</button>
+      </div>
+      <div>
+        <br><br><h2 id="FormHeader" class="display-5 fw-bold text-body-emphasis" style="display: none;">Addition Form</h2>
+            <form id="Form" style="display: none;">
+                <label>Enter first number:</label><br>
+                <input type="number" id="firstNum" name="firstNum"><br>
+                <label>Enter second number:</label><br>
+                <input type="number" id="secondNum" name="secondNum"><br><br>
+                <input onclick="CalculateSum()" type="button" value="Calculate Sum"><br><br>
+            </form> 
+            <div id="Sum" class="Sum"></div>
       </div>
     </div>
   </div>
