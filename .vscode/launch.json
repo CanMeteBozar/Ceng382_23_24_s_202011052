@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Ceng382_23_24_s_202011052",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Ceng382_23_24_s_202011052.csproj",
+            "launchConfigurationId": "TargetFramework=;Ceng382_23_24_s_202011052"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+c:\Users\canme\Desktop\CENG382\Ceng382_23_24_s_202011052\bin\Debug\net8.0\Ceng382_23_24_s_202011052.exe
+c:\Users\canme\Desktop\CENG382\Ceng382_23_24_s_202011052\bin\Debug\net8.0\Ceng382_23_24_s_202011052.deps.json
+c:\Users\canme\Desktop\CENG382\Ceng382_23_24_s_202011052\bin\Debug\net8.0\Ceng382_23_24_s_202011052.runtimeconfig.json
+c:\Users\canme\Desktop\CENG382\Ceng382_23_24_s_202011052\bin\Debug\net8.0\Ceng382_23_24_s_202011052.dll
+c:\Users\canme\Desktop\CENG382\Ceng382_23_24_s_202011052\bin\Debug\net8.0\Ceng382_23_24_s_202011052.pdb
+c:\Users\canme\Desktop\CENG382\Ceng382_23_24_s_202011052\obj\Debug\net8.0\Ceng382_23_24_s_202011052.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\canme\Desktop\CENG382\Ceng382_23_24_s_202011052\obj\Debug\net8.0\Ceng382_23_24_s_202011052.AssemblyInfoInputs.cache
+c:\Users\canme\Desktop\CENG382\Ceng382_23_24_s_202011052\obj\Debug\net8.0\Ceng382_23_24_s_202011052.AssemblyInfo.cs
+c:\Users\canme\Desktop\CENG382\Ceng382_23_24_s_202011052\obj\Debug\net8.0\Ceng382_23_24_s_202011052.csproj.CoreCompileInputs.cache
+c:\Users\canme\Desktop\CENG382\Ceng382_23_24_s_202011052\obj\Debug\net8.0\Ceng382_23_24_s_202011052.sourcelink.json
+c:\Users\canme\Desktop\CENG382\Ceng382_23_24_s_202011052\obj\Debug\net8.0\Ceng382_23_24_s_202011052.dll
+c:\Users\canme\Desktop\CENG382\Ceng382_23_24_s_202011052\obj\Debug\net8.0\refint\Ceng382_23_24_s_202011052.dll
+c:\Users\canme\Desktop\CENG382\Ceng382_23_24_s_202011052\obj\Debug\net8.0\Ceng382_23_24_s_202011052.pdb
+c:\Users\canme\Desktop\CENG382\Ceng382_23_24_s_202011052\obj\Debug\net8.0\Ceng382_23_24_s_202011052.genruntimeconfig.cache
+c:\Users\canme\Desktop\CENG382\Ceng382_23_24_s_202011052\obj\Debug\net8.0\ref\Ceng382_23_24_s_202011052.dll
