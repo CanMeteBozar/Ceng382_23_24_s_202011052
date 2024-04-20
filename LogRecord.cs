@@ -1,8 +1,17 @@
+using System.ComponentModel.DataAnnotations;
+using System.Dynamic;
+
 public class LogRecord{
-    private DateTime Timestamp{get; set;}
+    public DateTime Timestamp{get; set;}
 
-    private string ReserverName{get; set;}
+    public string ReserverName{get; set;}
 
-    private string RoomName{get; set;}
+    public string RoomName{get; set;}
+
+    public LogRecord(string reserverName, string roomName){
+        Timestamp = DateTime.Now;
+        ReserverName = reserverName;
+        RoomName = roomName;
+    }
 
 }

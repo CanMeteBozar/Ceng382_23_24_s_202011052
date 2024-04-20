@@ -2,12 +2,12 @@ public class RoomHandler{
 
     private string _filePath;
 
-    public List<> GetRooms(){
-        return ;
-    }
+    // public List<> GetRooms(){
+        
+    // }
 
-    public void SaveRooms(List<> rooms){
-
-    }
+    // public void SaveRooms(List<> rooms){
+        
+    // }
 
 }

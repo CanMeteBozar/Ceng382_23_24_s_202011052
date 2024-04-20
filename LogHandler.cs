@@ -1,7 +1,11 @@
 public class LogHandler{
     private ILogger _logger;
 
-    public void AddLog(LogRecord log){
-        
+    public LogHandler(ILogger logger){
+        _logger = logger;
+    }
+
+    public void AddLog(LogRecord log ,string filePath){
+        _logger.Log(log, filePath);
     }
 }
