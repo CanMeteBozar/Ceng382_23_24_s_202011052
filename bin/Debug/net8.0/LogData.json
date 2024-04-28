@@ -1,5 +1,135 @@
-{"Timestamp":"2024-04-20T15:53:31.344239+03:00","ReserverName":"Can Mete Bozar","RoomName":"A-111"}
-{"Timestamp":"2024-04-20T15:54:48.8970266+03:00","ReserverName":"Can Mete Bozar","RoomName":"A-111"}
-{"Timestamp":"2024-04-20T15:55:21.1180737+03:00","ReserverName":"Can Mete Bozar","RoomName":"A-111"}
-{"Timestamp":"2024-04-28T01:15:09.1201282+03:00","ReserverName":"Can Mete Bozar","RoomName":"A-111"}
-{"Timestamp":"2024-04-28T01:15:09.2051184+03:00","ReserverName":"Bilge Cetindere","RoomName":"A-112"}
+{
+  "Timestamp": "2024-04-28T15:50:02.7874229+03:00",
+  "ReserverName": "Can Mete Bozar",
+  "RoomName": "A-111"
+} New Reservation Added.
+{
+  "Timestamp": "2024-04-28T15:50:02.8746013+03:00",
+  "ReserverName": "Can Mete Bozar",
+  "RoomName": "A-111"
+} AddReservation failed, because Can Mete Bozar is already in the list.
+{
+  "Timestamp": "2024-04-28T15:50:02.8748467+03:00",
+  "ReserverName": "Bilge Cetindere",
+  "RoomName": "A-112"
+} New Reservation Added.
+{
+  "Timestamp": "2024-04-28T15:50:02.8750403+03:00",
+  "ReserverName": "Atacan Beyenir",
+  "RoomName": "A-112"
+} Reservation could not be added for Atacan Beyenir. Room A-112 out of capacity.
+{
+  "Timestamp": "2024-04-28T15:50:02.875197+03:00",
+  "ReserverName": "Timucin Eke",
+  "RoomName": "A-102"
+} Reservation could not be added for Timucin Eke. The date does not fall between 08.04.2024 and 14.04.2024.
+{
+  "Timestamp": "2024-04-28T15:50:02.8753189+03:00",
+  "ReserverName": "Aysenaz Donmez",
+  "RoomName": "A-108"
+} New Reservation Added.
+{
+  "Timestamp": "2024-04-28T15:50:02.8754716+03:00",
+  "ReserverName": "Dogan Ertunc",
+  "RoomName": "A-1234"
+} Reservation could not be added for Dogan Ertunc. Room A-1234 / 1234 does not exist.
+{
+  "Timestamp": "2024-04-28T15:50:02.8757917+03:00",
+  "ReserverName": "Can Mete Bozar",
+  "RoomName": "A-111"
+} Reservation deleted.
+{
+  "Timestamp": "2024-04-28T15:50:02.8759177+03:00",
+  "ReserverName": "Timucin Eke",
+  "RoomName": "A-102"
+} DeleteReservation failed, because Timucin Eke is not in the list.
+{
+  "Timestamp": "2024-04-28T16:24:29.6462716+03:00",
+  "ReserverName": "Can Mete Bozar",
+  "RoomName": "A-111"
+} New Reservation Added.
+{
+  "Timestamp": "2024-04-28T16:24:29.717304+03:00",
+  "ReserverName": "Can Mete Bozar",
+  "RoomName": "A-111"
+} AddReservation failed, because Can Mete Bozar is already in the list.
+{
+  "Timestamp": "2024-04-28T16:24:29.7174612+03:00",
+  "ReserverName": "Bilge Cetindere",
+  "RoomName": "A-112"
+} New Reservation Added.
+{
+  "Timestamp": "2024-04-28T16:24:29.7175485+03:00",
+  "ReserverName": "Atacan Beyenir",
+  "RoomName": "A-112"
+} Reservation could not be added for Atacan Beyenir. Room A-112 out of capacity.
+{
+  "Timestamp": "2024-04-28T16:24:29.7176187+03:00",
+  "ReserverName": "Timucin Eke",
+  "RoomName": "A-102"
+} Reservation could not be added for Timucin Eke. The date does not fall between 08.04.2024 and 14.04.2024.
+{
+  "Timestamp": "2024-04-28T16:24:29.7176935+03:00",
+  "ReserverName": "Aysenaz Donmez",
+  "RoomName": "A-108"
+} New Reservation Added.
+{
+  "Timestamp": "2024-04-28T16:24:29.7177574+03:00",
+  "ReserverName": "Dogan Ertunc",
+  "RoomName": "A-1234"
+} Reservation could not be added for Dogan Ertunc. Room A-1234 / 1234 does not exist.
+{
+  "Timestamp": "2024-04-28T16:24:29.7275304+03:00",
+  "ReserverName": "Can Mete Bozar",
+  "RoomName": "A-111"
+} Reservation deleted.
+{
+  "Timestamp": "2024-04-28T16:24:29.7278011+03:00",
+  "ReserverName": "Timucin Eke",
+  "RoomName": "A-102"
+} DeleteReservation failed, because Timucin Eke is not in the list.
+{
+  "Timestamp": "2024-04-28T18:44:17.9712756+03:00",
+  "ReserverName": "Can Mete Bozar",
+  "RoomName": "A-111"
+} New Reservation Added.
+{
+  "Timestamp": "2024-04-28T18:44:18.3751149+03:00",
+  "ReserverName": "Can Mete Bozar",
+  "RoomName": "A-111"
+} AddReservation failed, because Can Mete Bozar is already in the list.
+{
+  "Timestamp": "2024-04-28T18:44:18.3752766+03:00",
+  "ReserverName": "Bilge Cetindere",
+  "RoomName": "A-112"
+} New Reservation Added.
+{
+  "Timestamp": "2024-04-28T18:44:18.3754175+03:00",
+  "ReserverName": "Atacan Beyenir",
+  "RoomName": "A-112"
+} Reservation could not be added for Atacan Beyenir. Room A-112 out of capacity.
+{
+  "Timestamp": "2024-04-28T18:44:18.3754935+03:00",
+  "ReserverName": "Timucin Eke",
+  "RoomName": "A-102"
+} Reservation could not be added for Timucin Eke. The date does not fall between 08.04.2024 and 14.04.2024.
+{
+  "Timestamp": "2024-04-28T18:44:18.3755814+03:00",
+  "ReserverName": "Aysenaz Donmez",
+  "RoomName": "A-108"
+} New Reservation Added.
+{
+  "Timestamp": "2024-04-28T18:44:18.3756757+03:00",
+  "ReserverName": "Dogan Ertunc",
+  "RoomName": "A-1234"
+} Reservation could not be added for Dogan Ertunc. Room A-1234 / 1234 does not exist.
+{
+  "Timestamp": "2024-04-28T18:44:18.4077305+03:00",
+  "ReserverName": "Can Mete Bozar",
+  "RoomName": "A-111"
+} Reservation deleted.
+{
+  "Timestamp": "2024-04-28T18:44:18.4079861+03:00",
+  "ReserverName": "Timucin Eke",
+  "RoomName": "A-102"
+} DeleteReservation failed, because Timucin Eke is not in the list.

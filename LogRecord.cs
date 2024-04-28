@@ -1,3 +1,4 @@
+// This class contains a record definiton for reserver information.
 using System.ComponentModel.DataAnnotations;
 using System.Dynamic;
 

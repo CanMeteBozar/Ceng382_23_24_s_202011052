@@ -1,3 +1,4 @@
+// This class has variables for reserver information.
 public class Reservation{
     public DateTime date{get; set;}
 

@@ -1,3 +1,4 @@
+// This class holds data from json file in proper format 
 using System.Text.Json.Serialization;
 
 public class Room

@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2024-04-12T12:30:00",
+    "reserverName": "Bilge Cetindere",
+    "room": {
+      "roomId": "012",
+      "roomName": "A-112",
+      "capacity": 25
+    }
+  },
+  {
+    "date": "2024-04-08T18:00:00",
+    "reserverName": "Aysenaz Donmez",
+    "room": {
+      "roomId": "008",
+      "roomName": "A-108",
+      "capacity": 30
+    }
+  }
+]
