@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\canme\\Desktop\\CENG382\\RazorPageProject\\RazorPageProject.csproj": {}
+    "C:\\Users\\canme\\Desktop\\CENG382\\Ceng382_23_24_s_202011052\\RazorPageProject\\RazorPageProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\canme\\Desktop\\CENG382\\RazorPageProject\\RazorPageProject.csproj": {
+    "C:\\Users\\canme\\Desktop\\CENG382\\Ceng382_23_24_s_202011052\\RazorPageProject\\RazorPageProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\canme\\Desktop\\CENG382\\RazorPageProject\\RazorPageProject.csproj",
+        "projectUniqueName": "C:\\Users\\canme\\Desktop\\CENG382\\Ceng382_23_24_s_202011052\\RazorPageProject\\RazorPageProject.csproj",
         "projectName": "RazorPageProject",
-        "projectPath": "C:\\Users\\canme\\Desktop\\CENG382\\RazorPageProject\\RazorPageProject.csproj",
+        "projectPath": "C:\\Users\\canme\\Desktop\\CENG382\\Ceng382_23_24_s_202011052\\RazorPageProject\\RazorPageProject.csproj",
         "packagesPath": "C:\\Users\\canme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\canme\\Desktop\\CENG382\\RazorPageProject\\obj\\",
+        "outputPath": "C:\\Users\\canme\\Desktop\\CENG382\\Ceng382_23_24_s_202011052\\RazorPageProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\canme\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
